@@ -2,7 +2,7 @@
 
 The **Navigation Area** defines how difficult it is to walk across a specific area. This is important for finding the path with the lowest total cost. In addition, each [NavMesh Agent](./NavMeshAgent.md) has an **Area Mask** which you can use to specify which areas the agent can move on.
 
-![](./Images/NavMeshAreaType.svg)
+![A scene with a door that only some agents can traverse, and a water area that is more expensive to walk through.](./Images/NavMeshAreaType.svg)
 
 In the example above the area types are used for two common use cases:
 
@@ -37,7 +37,7 @@ The _cost_ per _area type_ can be set globally in the _Areas_ tab, or you can ov
 
 ## Area Types
 
-![](./Images/NavMeshAreaTypeList.png)
+![A table of areas, each showing their cost.](./Images/NavMeshAreaTypeList.png)
 
 The area types are specified in the _Navigation Window_’s _Areas_ tab. There are 29 custom types, and 3 built-in types: _Walkable_, _Not Walkable_, and _Jump_.
 
@@ -49,17 +49,20 @@ If several objects of different area types are overlapping, the resulting NavMes
 
 ## Area Mask
 
-![](./Images/NavMeshAreaMask.svg)
+![The Area Mask dropdown list, with four selected options: Walkable, Not Walkable, Jump, and Water.](./Images/NavMeshAreaMask.svg)
 
 Each agent has an _Area Mask_ which describes which areas it can use when navigating. The area mask can be set in the agent properties, or the bitmask can be manipulated using a script at runtime.
 
 The area mask is useful when you want only certain types characters to be able to walk through an area. For example, in a zombie evasion game, you could mark the area under each door with a _Door_ area type, and uncheck the Door area from the zombie character’s Area Mask.
 
-### Additional resources
+## Additional resources
 
-- [Create a NavMesh](./CreateNavMesh.md) - Workflow to create a NavMesh
-- [NavMeshAgent.areaMask](https://docs.unity3d.com/ScriptReference/AI.NavMeshAgent-areaMask.html) - Script API to set areaMask for an agent.
-- [NavMeshAgent.SetAreaCost()](https://docs.unity3d.com/ScriptReference/AI.NavMeshAgent.SetAreaCost.html) - Script API to set area cost for an agent.
+- [Create a NavMesh](./CreateNavMesh.md "Workflow to create a NavMesh.")
+- [NavMesh Modifier component reference](./NavMeshModifier.md "Use for affecting the NavMesh generation of NavMesh area types based on the transform hierarchy.")
+- [NavMesh Modifier Volume component reference](./NavMeshModifierVolume.md "Use for affecting the NavMesh generation of NavMesh area types based on volume.")
+- [NavMeshAgent.areaMask scripting reference](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/AI.NavMeshAgent-areaMask.html "Script API to set which area types an agent can use for movement.")
+- [NavMeshAgent.SetAreaCost() scripting reference](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/AI.NavMeshAgent.SetAreaCost.html "Script API to set what cost an agent considers for each area type.")
 
-[1]: ./Glossary.md#navmesh "A mesh that Unity generates to approximate the walkable areas and obstacles in your environment for path finding and AI-controlled navigation."
-[2]: https://docs.unity3d.com/Manual/mesh-introduction.html "The main graphics primitive of Unity. Meshes make up a large part of your 3D worlds. Unity supports triangulated or Quadrangulated polygon meshes. Nurbs, Nurms, Subdiv surfaces must be converted to polygons."
+[1]: ./Glossary.md#NavMesh "A mesh that Unity generates to approximate the walkable areas and obstacles in your environment for path finding and AI-controlled navigation."
+
+[2]: ./Glossary.md#Mesh "The main graphics primitive of Unity. Meshes make up a large part of your 3D worlds. Unity supports triangulated or Quadrangulated polygon meshes. Nurbs, Nurms, Subdiv surfaces must be converted to polygons."

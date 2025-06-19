@@ -67,7 +67,6 @@ public class FPSShooterController : MonoBehaviour
 
         AimMode();
 
-        Debug.Log("Bullet is called every frame: " + bulletPrefab.name);
     }  
     private void HandleAimToggle()
     {
@@ -110,9 +109,6 @@ public class FPSShooterController : MonoBehaviour
             
             if (starterAssetsInputs.shoot)
             {
-                Debug.Log("Shooting at target position: " + aimTargetPosition);
-                Debug.Log("Bullet Spawn Point: " + bulletSpawnPoint.position);
-                Debug.Log("Bullet Prefab: " + bulletPrefab.name);
                 Shoot(aimTargetPosition);
                 starterAssetsInputs.shoot = false; 
             }

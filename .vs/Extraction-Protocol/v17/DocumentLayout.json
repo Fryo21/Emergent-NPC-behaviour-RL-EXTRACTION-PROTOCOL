@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|c:\\users\\fobio\\documents\\multiplayer game-local repo\\extraction-protocol\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|c:\\users\\fobio\\documents\\multiplayer game-local repo\\extraction-protocol\\assets\\scripts\\game\\bulletsprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\bulletsprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|c:\\users\\fobio\\documents\\multiplayer game-local repo\\extraction-protocol\\assets\\scripts\\civillianai [fsm]\\civillianaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civillianaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\player\\fpsshootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fpsshootercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\imports\\starterassets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\imports\\starterassets\\inputsystem\\starterassetsinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\civillianai [fsm]\\civillianainavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civillianainavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\imports\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\imports\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\civillianai [fsm]\\civillianidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civillianidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\civillianai [fsm]\\civillianundercover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civillianundercover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\civillianai [fsm]\\civillianflee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civillianflee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\assets\\scripts\\civillianai [fsm]\\civilliaaibasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C4D21B-0B57-F2DD-2051-FDA319974647}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\civillianai [fsm]\\civilliaaibasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,77 +43,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Title": "CivillianAIController.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianAIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianAIController.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianAIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianAIController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:45:27.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StarterAssetsInputs.cs",
-              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Imports\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
-              "RelativeDocumentMoniker": "Assets\\Imports\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
-              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Imports\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
-              "RelativeToolTip": "Assets\\Imports\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:36:40.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BulletsProjectile.cs",
-              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Game\\BulletsProjectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\BulletsProjectile.cs",
-              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Game\\BulletsProjectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\BulletsProjectile.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:24:33.061Z",
+              "WhenOpened": "2025-06-19T17:13:19.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Game\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameManager.cs",
-              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Game\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game\\GameManager.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:52:42.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "FPSShooterController.cs",
               "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Player\\FPSShooterController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FPSShooterController.cs",
               "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\Player\\FPSShooterController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\FPSShooterController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAGAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAADwv0QAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:42:14.484Z"
+              "WhenOpened": "2025-06-19T15:52:57.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CivillianUndercover.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianUndercover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianUndercover.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianUndercover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianUndercover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:21:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CivillianIdleState.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianIdleState.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianIdleState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:21:19.042Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ThirdPersonController.cs",
-              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Imports\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
-              "RelativeDocumentMoniker": "Assets\\Imports\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
-              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Imports\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
-              "RelativeToolTip": "Assets\\Imports\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
-              "ViewState": "AQIAAHcBAAAAAAAAAAAiwJMBAAAAAAAA",
+              "Title": "CivillianFlee.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianFlee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianFlee.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianFlee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianFlee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T17:19:15.617Z"
+              "WhenOpened": "2025-06-19T14:21:15.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CivillianAINavigation.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianAINavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianAINavigation.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivillianAINavigation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivillianAINavigation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:45:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CivilliaAIBaseState.cs",
+              "DocumentMoniker": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivilliaAIBaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CivillianAI [FSM]\\CivilliaAIBaseState.cs",
+              "ToolTip": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Assets\\Scripts\\CivillianAI [FSM]\\CivilliaAIBaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CivillianAI [FSM]\\CivilliaAIBaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:21:40.079Z"
             }
           ]
         }

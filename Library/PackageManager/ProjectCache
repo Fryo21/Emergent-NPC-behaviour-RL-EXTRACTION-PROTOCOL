@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856736872022169
-    m_Hash: 1018215774
+      ticks: 638859083747013022
+    m_Hash: 1491401811
   m_LockFileStatus:
     m_FilePath: C:/Users/fobio/Documents/Multiplayer Game-local repo/Extraction-Protocol/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638856736919819138
-    m_Hash: 3788838549
+      ticks: 638859083747073353
+    m_Hash: 422760252
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,10 +22,10 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/fobio/Documents/Multiplayer Game-local repo/Extraction-Protocol/Packages
 m_EditorVersion: 6000.0.25f1 (4859ab7b5a49)
 m_ResolvedPackages:
-- packageId: com.unity.ai.navigation@2.0.4
+- packageId: com.unity.ai.navigation@2.0.8
   testable: 0
   isDirectDependency: 1
-  version: 2.0.4
+  version: 2.0.8
   source: 1
   resolvedPath: C:\Users\fobio\Documents\Multiplayer Game-local repo\Extraction-Protocol\Library\PackageCache\com.unity.ai.navigation
   assetPath: Packages/com.unity.ai.navigation
@@ -109,13 +109,13 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638605675584270000
+  datePublishedTicks: 638841129733020000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
-    revision: 2c565f88d424bed980de32ead5a48791e9db9936
+    revision: edeb8e889d1eedf4001fa41bdab7d69d01a62f24
     path: 
   unityLifecycle:
     version: 2.0.4
@@ -128,15 +128,16 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n* NavMesh Modifier was not overriding the
-    area type in a NavMesh built from within an `Awake()` method ([NAVB-39](https://issuetracker.unity3d.com/issues/building-navmesh-with-navmeshsurface-does-not-bake-areas-into-navmeshtriangulation-when-buildnavmesh-is-called-in-awake))"}'
+  upmReserved: '{"changelog":"### Fixed\n* Samples will now use appropriate material
+    colors in projects using HDRP or URP. Install the **com.unity.shadergraph** package
+    to show the materials correctly for built-in render pipeline projects."}'
   assetStore:
     productId: 
-  fingerprint: 3f89ad87253dcaae2d0bb583bd5ef4c4f2c17764
+  fingerprint: eb5635ad590d47cef2a5c920d9475cc222db3f67
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.4
-    minimumUnityVersion: 2023.2.0a18
+    minimumUnityVersion: 6000.0.0a1
 - packageId: com.unity.burst@1.8.18
   testable: 0
   isDirectDependency: 1

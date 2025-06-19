@@ -125,6 +125,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletSpeed: 20
+  bulletDamage: 40
+  gunShotRadius: 100
+  gunShotAlert:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!54 &8813955646445787161
 Rigidbody:
   m_ObjectHideFlags: 0

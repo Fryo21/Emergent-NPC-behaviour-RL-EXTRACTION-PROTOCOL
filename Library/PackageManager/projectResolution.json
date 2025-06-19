@@ -8,12 +8,12 @@
     "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Packages\\packages-lock.json"
   ],
   "outputs": {
-    "com.unity.ai.navigation@2.0.4": {
+    "com.unity.ai.navigation@2.0.8": {
       "name": "com.unity.ai.navigation",
       "resolvedPath": "C:\\Users\\fobio\\Documents\\Multiplayer Game-local repo\\Extraction-Protocol\\Library\\PackageCache\\com.unity.ai.navigation",
-      "fingerprint": "3f89ad87253dcaae2d0bb583bd5ef4c4f2c17764",
-      "editorCompatibility": "2023.2.0a18",
-      "version": "2.0.4",
+      "fingerprint": "eb5635ad590d47cef2a5c920d9475cc222db3f67",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.8",
       "source": "registry"
     },
     "com.unity.burst@1.8.18": {
