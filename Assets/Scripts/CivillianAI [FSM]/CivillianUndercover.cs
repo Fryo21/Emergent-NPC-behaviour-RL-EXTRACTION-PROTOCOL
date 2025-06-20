@@ -5,7 +5,7 @@ public class CivillianUndercover : CivillianAIBaseState
     public override void EnterState(CivillianAIController state)
     {
         Debug.Log("Civillian has entered undercover state.");
-        state.gameObject.AddComponent<EnemyAI>();
+        state.gameObject.AddComponent<EnemyAIController>();
 
         // Destroy everthing about the civillian AI
         GameObject.Destroy(state);

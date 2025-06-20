@@ -12,6 +12,7 @@ public class CivillianIdleState : CivillianAIBaseState
         Debug.Log("Civillian is in idle state.");
         if (!state.agent.pathPending && state.agent.remainingDistance < 0.5f)
         {
+            Debug.Log("Civillian has reached the destination, moving to next point.");
             MoveToNextPoint(state);
         }
     }

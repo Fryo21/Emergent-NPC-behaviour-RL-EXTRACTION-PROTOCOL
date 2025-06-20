@@ -11,19 +11,15 @@ public class CivillianFlee : CivillianAIBaseState
 
         state.agent.SetDestination(zonePosition.position);
 
-
-
-        Debug.Log("Civillian has entered flee state.");
-        
+        Debug.Log("Civillian has entered flee state.");        
     }
     public override void UpdateState(CivillianAIController state)
     {
-        Debug.Log("Civillian is fleeing.");
         // if civillian is close to safe zone, out of sight then delete the civillian
         if (HasReachedSafeZone(state))
         { 
             Debug.Log("Civillian has reached the safe zone and is now safe.");
-            GameObject.Destroy(state.gameObject);
+            Object.Destroy(state.gameObject);
         }
     }
     public override void ExitState(CivillianAIController state)

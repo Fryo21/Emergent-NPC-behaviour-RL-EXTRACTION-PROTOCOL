@@ -58,10 +58,10 @@ public class BulletsProjectile : MonoBehaviour
             //CivillianHealth civillianHealth = collision.gameObject.GetComponent<CivillianHealth>();
             //civillianHealth.TakeDamage(bulletDamage);
         }
-        else if (collision.gameObject.CompareTag("EnemyAI"))
-        {
-            Debug.Log(collision.gameObject.name + " was hit by the bullet.");
-        }
+       // else if (collision.gameObject.CompareTag("EnemyAI"))
+        //{
+       //     Debug.Log(collision.gameObject.name + " was hit by the bullet.");
+       // }
         else if (collision.gameObject.CompareTag("Player"))
         {
             Debug.Log(collision.gameObject.name + " was hit by the bullet.");

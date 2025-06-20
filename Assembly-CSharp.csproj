@@ -63,31 +63,38 @@
   <ItemGroup>
     <Compile Include="Assets\Imports\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianAIController.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\Nodes\NodeCanSeePlayer.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\DestroyAfterTimeParticle.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianIdleState.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\PlayerMovementScript.cs" />
     <Compile Include="Assets\Scripts\Game\GameManager.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\NodeState.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianUndercover.cs" />
     <Compile Include="Assets\Scripts\Game\BulletsProjectile.cs" />
     <Compile Include="Assets\Imports\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianHealth.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\Nodes\NodeChasePlayer.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivilliaAIBaseState.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\MouseLookScript.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\GunInventory.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\BulletScript.cs" />
     <Compile Include="Assets\Imports\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\SelectorNode.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianAINavigation.cs" />
     <Compile Include="Assets\Imports\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
     <Compile Include="Assets\Imports\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
-    <Compile Include="Assets\Scripts\EnemyAI\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\CivillianAI [FSM]\CivillianFlee.cs" />
     <Compile Include="Assets\Scripts\Player\FPSShooterController.cs" />
     <Compile Include="Assets\Imports\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Imports\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\Nodes\NodePatrolArea.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\BehaviourNode.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
     <Compile Include="Assets\Imports\Easy FPS\Scripts\GunScript.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\EnemyAIController.cs" />
     <Compile Include="Assets\Imports\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
+    <Compile Include="Assets\Scripts\EnemyAI\SequenceNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Imports\StarterAssets\license.txt" />

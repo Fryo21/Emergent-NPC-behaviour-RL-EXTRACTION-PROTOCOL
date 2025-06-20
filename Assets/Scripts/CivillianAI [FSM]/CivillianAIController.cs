@@ -26,14 +26,10 @@ public class CivillianAIController : MonoBehaviour
         if (agent == null)
         {
             Debug.Log("NavMeshAgent not assigned, trying to get it from the GameObject.");
-        }
-
-        
-        // Getthe player location
-       // playerLocation = GameObject.FindGameObjectWithTag("Player").transform;
-
+        }        
+        // Get the player location
+        //playerLocation = GameObject.FindGameObjectWithTag("Player").transform;
         SwtichState(new CivillianIdleState());
-
     }
 
     // Update is called once per frame
@@ -55,7 +51,7 @@ public class CivillianAIController : MonoBehaviour
     {
         Debug.Log("Gunshot heard! Civillian AI reacting...");
         float distance = Vector3.Distance(transform.position, origin);
-        
+
         if (distance < civillianAudibility)
         {
             float convertChance = Random.value;
